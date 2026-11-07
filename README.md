@@ -27,14 +27,3 @@ Studio NØSa の創設者。主に TypeScript と Zig、たまに Python を使�
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keychrom&theme=github_dark" alt="GitHub stats" width="340" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Keychrom&theme=github_dark&utcOffset=9" alt="Commits per hour (UTC+9)" width="340" />
 </p>
-
-<!--
-## GPG Public Key
-
-File: [public.asc](public.asc)
-Fingerprint: `XXXX XXXX XXXX XXXX XXXX  XXXX XXXX XXXX XXXX XXXX`
-
-GPG 鍵を公開するときは、エクスポートした公開鍵を public.asc としてこのリポジトリに置き、
-上のコメントを解除して Fingerprint を書き換えてください。
-エクスポート: gpg --armor --export <KEY_ID> > public.asc
--->
