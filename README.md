@@ -2,12 +2,12 @@
 
 <sub>Keychrom · Studio NØSa</sub>
 
-My site: https://studio-nosa.live/
-X (Twitter): https://x.com/amanoremi
-つくったもの / Works: https://github.com/Keychrom?tab=repositories
-Spica: https://github.com/Keychrom/Spica
-Tessa: https://github.com/Keychrom/Tessa
-Frosted ISO Builder: https://github.com/Keychrom/Frosted-ISO-Builder
+My site: https://studio-nosa.live/<br>
+X (Twitter): https://x.com/amanoremi<br>
+つくったもの / Works: https://github.com/Keychrom?tab=repositories<br>
+Spica: https://github.com/Keychrom/Spica<br>
+Tessa: https://github.com/Keychrom/Tessa<br>
+Frosted ISO Builder: https://github.com/Keychrom/Frosted-ISO-Builder<br>
 Studio NØSa Docs: https://docs.studio-nosa.live
 
 Studio NØSa の創設者。主に TypeScript と Zig、たまに Python を使って、Web サービスから OS まわりまで作っています。最近は Spica（ActivityPub サーバー）と Tessa（Zig 製 Wayland コンポジタ）を中心に開発中。
